@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	color:black;
+}
+a hover{
+text-decoration: none;
+}
+img{
+	border: none;
+}
+.katalog{
+	width: 726px;
+	margin: 30px auto;
+}
+.product-main{
+	width: 348;
+		float: left;
+}
+.product{
+	border-right: 1px dotted #575e70;
+}
+.product h2{
+	text-align: center;
+	margin: 0 0 15px 0;
+}
+.product img{
+	text-align: center;
+}
+.price{
+	font-size:40px;
+	font-family: Tahoma, Geneva, sans-serif;
+	color: black;
+}
+.price span{
+	font-size: 30px;
+	font-family: Tahoma, Geneva, sans-serif;
+	color:#808080;
+} 
+.price img{
+	float: right;
+}
+.bot-dot{
+	border-bottom: 1px dotted #575e70;
+}
+
+
